@@ -9,8 +9,7 @@ I enjoy solving complex data problems, automating workflows, and improving devel
 - 🧠 Strong in **Java** and **Spring Boot**, with experience in REST API design and JWT-based authentication.  
 - ⚙️ Worked with **PostgreSQL**, **Spring Security**, and **Maven** for scalable backend projects.  
 - 🌐 Built web tools integrating **React**, **NestJS**, and **Map APIs (Google Maps / Mapbox)**.  
-- 🧩 Experienced in data handling and optimization — especially **parsing and processing KML files**.  
-- 🧪 Currently exploring **Selenium** for automation and testing.  
+- 🧩 Experienced in data handling and optimization — especially **parsing and processing KML files**.
 - 🏗️ Interested in backend architecture, clean code, and performance optimization.
 
 ---
@@ -35,14 +34,9 @@ This project improved data accuracy and automation within internal workflows.
 
 ---
 
-## 📊 GitHub Stats
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzakheiri&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza%20Kheiri-blue?logo=linkedin)](https://www.linkedin.com/in/your-link)  
-[![Email](https://img.shields.io/badge/Email-hamzakheiri%40example.com-red?logo=gmail)](mailto:hamzakheiri@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza%20Kheiri-blue?logo=linkedin)](https://www.linkedin.com/in/hkheiri/)  
+[![Email](https://img.shields.io/badge/Email-hamzakheiri%40example.com-red?logo=gmail)](mailto:hamza.kheiri@gmail.com)
 
 ---
 
