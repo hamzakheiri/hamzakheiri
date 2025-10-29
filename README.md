@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Hamza Kheiri
 
-<!--
-**hamzakheiri/hamzakheiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer passionate about building **clean, performant, and maintainable backends**.  
+I enjoy solving complex data problems, automating workflows, and improving developer productivity through well-structured code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+- 🧠 Strong in **Java** and **Spring Boot**, with experience in REST API design and JWT-based authentication.  
+- ⚙️ Worked with **PostgreSQL**, **Spring Security**, and **Maven** for scalable backend projects.  
+- 🌐 Built web tools integrating **React**, **NestJS**, and **Map APIs (Google Maps / Mapbox)**.  
+- 🧩 Experienced in data handling and optimization — especially **parsing and processing KML files**.  
+- 🧪 Currently exploring **Selenium** for automation and testing.  
+- 🏗️ Interested in backend architecture, clean code, and performance optimization.
+
+---
+
+## 🏢 Internship Highlight – *Inwi, Morocco*
+During my internship at **Inwi**, I developed an internal web application to:
+- Parse, visualize, and sanitize **KML network data**.  
+- Calculate distances (client ↔ beacon / client ↔ infrastructure) using **graph algorithms** (like Dijkstra).  
+- Create a simple frontend to help non-technical users interact with map data.  
+
+This project improved data accuracy and automation within internal workflows.
+
+---
+
+## 🧰 Technologies & Tools
+**Languages:** Java, TypeScript, JavaScript, C, SQL  
+**Frameworks:** Spring Boot, NestJS, React  
+**Databases:** PostgreSQL, H2  
+**Tools:** Maven, Postman, Docker, Git, Vim, LunarVim, WSL2  
+**Testing & Automation:** Selenium, JUnit  
+**Other:** Mapbox API, Google Maps API, JWT, RESTful APIs
+
+---
+
+## 📊 GitHub Stats
+![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzakheiri&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza%20Kheiri-blue?logo=linkedin)](https://www.linkedin.com/in/your-link)  
+[![Email](https://img.shields.io/badge/Email-hamzakheiri%40example.com-red?logo=gmail)](mailto:hamzakheiri@example.com)
+
+---
+
+> “Long, clear, and straightforward approaches always beat tricky ones.”  
+> — My guiding principle for writing code
