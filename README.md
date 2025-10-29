@@ -9,9 +9,9 @@ I enjoy solving complex data problems, automating workflows, and improving devel
 - 🧠 Strong in **Java** and **Spring Boot**, with experience in REST API design and JWT-based authentication.  
 - ⚙️ Worked with **PostgreSQL**, **Spring Security**, and **Maven** for scalable backend projects.  
 - 🌐 Built web tools integrating **React**, **NestJS**, and **Map APIs (Google Maps / Mapbox)**.  
-- 🧩 Experienced in data handling and optimization — especially **parsing and processing KML files**.
+- 🧩 Experienced in data handling and optimization — especially **parsing and processing data**.
 - 🏗️ Interested in backend architecture, clean code, and performance optimization.
-
+- 🚀 Currently exploring the **Java Spring Boot + Angular stack** for building full-featured web applications.
 ---
 
 ## 🏢 Internship Highlight – *Inwi, Morocco*
