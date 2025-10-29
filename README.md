@@ -36,7 +36,7 @@ This project improved data accuracy and automation within internal workflows.
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza%20Kheiri-blue?logo=linkedin)](https://www.linkedin.com/in/hkheiri/)  
-[![Email](https://img.shields.io/badge/Email-hamzakheiri%40example.com-red?logo=gmail)](mailto:hamza.kheiri@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hamza.kheiri%40gmail.com-red?logo=gmail)](mailto:hamza.kheiri@gmail.com)
 
 ---
 
